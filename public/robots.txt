@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow private or administrative paths if any exist
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://example.com/sitemap.xml
