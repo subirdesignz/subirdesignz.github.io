@@ -1,6 +1,0 @@
-{
-  "name": "Static Website Starter",
-  "description": "Minimalist coming soon landing page for Subir with Behance portfolio CTA.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
